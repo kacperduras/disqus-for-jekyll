@@ -1,4 +1,4 @@
-# disqus-for-jekyll [![Build Status](https://travis-ci.org/kacperduras/disqus-for-jekyll.svg?branch=master)](https://travis-ci.org/kacperduras/disqus-for-jekyll)
+# disqus-for-jekyll [![Build Status](https://travis-ci.org/kacperduras/disqus-for-jekyll.svg?branch=master)](https://travis-ci.org/kacperduras/disqus-for-jekyll) [![Gem Version](https://badge.fury.io/rb/disqus-for-jekyll.svg)](https://badge.fury.io/rb/disqus-for-jekyll)
 A Jekyll plugin to view the comments powered by Disqus.
 
 ## Installation
