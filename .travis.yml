@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 
 before_install:
-  - gem install bundler -v 1.16.0
+  - gem update --system
 
 matrix:
   include:

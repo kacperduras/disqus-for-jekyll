@@ -31,8 +31,8 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'jekyll', '~> 3.7.0'
 
-  spec.add_development_dependency 'bundler', '~> 1.16'
+  spec.add_development_dependency 'bundler', '~> 1.16.1'
 
   spec.add_development_dependency 'rake', '~> 12.3'
-  spec.add_development_dependency 'minitest', '~> 5.10.3'
+  spec.add_development_dependency 'minitest', '~> 5.11.1'
 end
