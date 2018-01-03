@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'disqus-for-jekyll'
-  spec.version       = '1.0.1'
+  spec.version       = '1.0.2'
   spec.authors       = ['Kacper Duras']
   spec.email         = ['git@kacperduras.pl']
 
