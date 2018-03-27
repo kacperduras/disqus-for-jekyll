@@ -13,6 +13,8 @@ matrix:
     - rvm: 2.4.3
     - rvm: 2.3.6
     - rvm: 2.2.9
+    # JRuby
+    - rvm: jruby-9.1.16.0
 
 notfications:
   email: false
